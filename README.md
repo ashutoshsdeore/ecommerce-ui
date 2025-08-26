@@ -48,4 +48,8 @@ To set up the project locally:
 2. Clone the repository and navigate to the project directory.
 3. Run `npm install` to install dependencies.
 4. Start the development server with `npm start`.
+<<<<<<< HEAD
 5. Access the application at `http://localhost:3000` in your browser.
+=======
+5. Access the application at `http://localhost:3000` in your browser.
+>>>>>>> aa46cf2d4eb5981b9f1933a78f443ec479af34f9
